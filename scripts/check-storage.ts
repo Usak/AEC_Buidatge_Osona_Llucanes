@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import {blank,centres} from '../src/model';
+import {readResults,saveResult,STORAGE_KEY} from '../src/storage';
+const data=new Map<string,string>();let failWrite=false,queue:Promise<unknown>=Promise.resolve();
+Object.defineProperty(globalThis,'localStorage',{value:{getItem:(key:string)=>data.get(key)||null,setItem:(key:string,value:string)=>{if(failWrite)throw Error('quota');data.set(key,value);}},configurable:true});
+Object.defineProperty(globalThis,'navigator',{value:{locks:{request:(_name:string,fn:()=>unknown)=>{const task=queue.then(fn);queue=task.catch(()=>{});return task;}}},configurable:true});
+assert.deepEqual(await readResults(),[]);
+const input=blank(centres[0]);input.date='2026-10-12';input.status='validated';input.axes.salaris={reviewed:true,priorities:['S03','S01'],ranked:false,amendment:'Esmena de prova local'};
+const saved=await saveResult(input);assert.equal(saved.revision,1);assert.equal((await readResults())[0].axes.salaris.ranked,false);
+await assert.rejects(()=>saveResult(input),/versió més recent/);
+const concurrent=await Promise.allSettled([saveResult({...saved,notes:'Primera actualització'}),saveResult({...saved,notes:'Segona actualització'})]);
+assert.equal(concurrent.filter(x=>x.status==='fulfilled').length,1);assert.equal((await readResults()).length,1);
+failWrite=true;await assert.rejects(()=>saveResult({...saved,revision:2}),/No s’ha pogut desar/);failWrite=false;
+assert.equal((await readResults())[0].revision,2);
+data.set(STORAGE_KEY,'dades trencades');await assert.rejects(()=>readResults(),/no es pot llegir/);
+console.log('PASS: persistència local, objectius sense ordre, conflictes entre pestanyes, error de quota i recuperació sense pèrdua silenciosa.');

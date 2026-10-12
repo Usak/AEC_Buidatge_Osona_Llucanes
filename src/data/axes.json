@@ -1,0 +1,974 @@
+[
+  {
+    "id": "salaris",
+    "name": "Salaris",
+    "minimum": 7,
+    "intro": "Aquest eix tracta de la retribució de la feina educativa. El document parteix de la pèrdua de poder adquisitiu i proposa recuperar-la, evitar noves pèrdues i reconèixer les responsabilitats i el temps de treball. Combina demandes comunes amb millores de col·lectius concrets. Cal distingir la protecció del salari de futur, la recuperació del que s’ha perdut i els complements per tasques específiques.",
+    "items": [
+      {
+        "id": "S01",
+        "title": "Garantia salarial vinculada a l’IPC",
+        "description": "Actualitzar automàticament els salaris segons l’índex de preus de consum per a tots els col·lectius. Protegeix davant l’encariment de la vida; la recuperació de pèrdues anteriors es tracta al punt S03.",
+        "group": ""
+      },
+      {
+        "id": "S02",
+        "title": "Mesa de funció pública estable",
+        "description": "Disposar d’un espai regular de negociació per abordar les condicions dels diferents col·lectius. És una via per negociar les millores; no fixa per si mateixa un increment salarial.",
+        "group": ""
+      },
+      {
+        "id": "S03",
+        "title": "Revertir retallades retributives",
+        "description": "Recuperar poder adquisitiu perdut. El PDF proposa un increment extraordinari del complement específic del 20% anual durant quatre anys. Es refereix a aquest complement, no al conjunt del sou. Cal concretar com s’aplicaria el percentatge anual i a quins conceptes i col·lectius.",
+        "group": ""
+      },
+      {
+        "id": "S04",
+        "title": "Pagar les hores extres de colònies i sortides",
+        "description": "Reconèixer econòmicament el temps de treball addicional. El PDF planteja calcular el preu de l’hora a partir de la nòmina bruta mensual i les hores treballades; cal precisar quines hores computen i com es registren.",
+        "group": ""
+      },
+      {
+        "id": "S05",
+        "title": "Cobrar tots els càrrecs exercits",
+        "description": "Retribuir tutoria, coordinacions i altres responsabilitats. El PDF demana el 100% dels complements dels càrrecs efectivament assumits, també en jornada reduïda.",
+        "group": ""
+      },
+      {
+        "id": "S06",
+        "title": "Reconèixer la coordinació digital",
+        "description": "Dotar-la de temps setmanal i complement propi segons la mida del centre: fins a 300 alumnes, 5 hores i 300 €/mes; de 301 a 700, 6 hores i 350 €/mes; més de 700, 9 hores i 400 €/mes. Són quantitats proposades al PDF.",
+        "group": ""
+      },
+      {
+        "id": "S07",
+        "title": "Retorn dels estadis",
+        "description": "Reclamar el cobrament dels tres anys que el document identifica com a perduts en el primer estadi d’infantil, primària i secundària. Cal concretar les persones afectades, els períodes i el càlcul dels endarreriments.",
+        "group": ""
+      },
+      {
+        "id": "S08",
+        "title": "Pagues dobles reals",
+        "description": "Demanar pagues extraordinàries completes per als professionals de l’educació. La redacció no desglossa quins conceptes s’hi han d’incloure; és una concreció que es pot demanar.",
+        "group": ""
+      },
+      {
+        "id": "S09",
+        "title": "Dignificació professional del 0 a 3",
+        "description": "Reconèixer la professió i la categoria de les educadores de l’escola bressol. El reconeixement general es concreta, en part, al punt següent.",
+        "group": ""
+      },
+      {
+        "id": "S10",
+        "title": "Categories A2 i B i equiparació al 0 a 3",
+        "description": "Revisar la classificació professional i els salaris sota el principi de mateixa feina, mateix salari. Cal definir els perfils, les titulacions i les equivalències que es proposen.",
+        "group": ""
+      },
+      {
+        "id": "S11",
+        "title": "Complement per màxima complexitat per al PAE",
+        "description": "Reclamar aquest complement per al personal d’atenció educativa que treballa en aquests centres.",
+        "group": ""
+      },
+      {
+        "id": "S12",
+        "title": "Integrar la productivitat 360 al salari base del PAE",
+        "description": "Convertir-la en una retribució incorporada a la nòmina. El PDF demana que no depengui d’avaluacions de direcció ni d’altres condicions.",
+        "group": ""
+      },
+      {
+        "id": "S13",
+        "title": "Equiparació del professorat tècnic singular d’FP",
+        "description": "Equiparar-ne el salari i rebutjar que els perfils docents estructurals passin a tenir una vinculació laboral en els termes denunciats pel document. El punt inclou dues demandes que convé valorar explícitament.",
+        "group": ""
+      },
+      {
+        "id": "S14",
+        "title": "Equiparació del personal del lleure",
+        "description": "Millorar salaris i condicions, amb reconeixement retributiu de colònies, extraescolars i sortides. Cal concretar amb quin col·lectiu es vol l’equiparació i què s’entén per pagues extres en aquestes activitats.",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "ratios",
+    "name": "Ràtios",
+    "minimum": 6,
+    "intro": "Aquest eix demana menys alumnat per grup i per professional per poder oferir una atenció més propera. També proposa mantenir els grups públics i utilitzar la baixada de matrícula per reduir ràtios. No totes les caselles parlen del mateix: unes redueixen el nombre d’alumnes, unes augmenten la presència de professionals i unes impedeixen que una millora es compensi amb grups més grans.",
+    "items": [
+      {
+        "id": "R01",
+        "title": "Baixar les ràtios a totes les etapes",
+        "description": "És la casella general. El PDF concreta: 0 a 1 anys, 4 infants per grup i educadora; 1 a 2, 6; 2 a 3, 8; segon cicle d’infantil, 12; primària, 15; ESO i batxillerat, 20; FP bàsica, 12 amb mòduls amb codocència; FP mitjana i superior, 20. Aquestes xifres són les demandes que desenvolupen el punt.",
+        "group": ""
+      },
+      {
+        "id": "R02",
+        "title": "Còmput doble de l’alumnat NESE",
+        "description": "Fer que l’alumnat amb necessitats específiques de suport educatiu compti com dues places des del diagnòstic i l’inici d’etapa, inclòs el 0 a 3. El PDF inclou NESE A i B. És una mesura de dimensionament del grup, no una substitució dels suports especialitzats.",
+        "group": ""
+      },
+      {
+        "id": "R03",
+        "title": "SIEI a tots els centres amb reducció de ràtios",
+        "description": "Estendre els suports intensius per a l’escolarització inclusiva i acompanyar-los de grups més reduïts. Cal precisar la dotació i el criteri de desplegament que es reclama.",
+        "group": ""
+      },
+      {
+        "id": "R04",
+        "title": "Cinc alumnes a la SIEI",
+        "description": "Fixar aquest límit d’atenció. El document no desenvolupa com computar-lo al llarg de la jornada ni la dotació professional vinculada; es pot demanar aquesta concreció.",
+        "group": ""
+      },
+      {
+        "id": "R05",
+        "title": "Parella educativa real al 0 a 3",
+        "description": "Comptar amb dues professionals amb les mateixes funcions i condicions laborals. El PDF associa aquesta demanda a l’atenció dels infants, no a un suport ocasional sense equivalència professional.",
+        "group": ""
+      },
+      {
+        "id": "R06",
+        "title": "Codocència a tots els grups de 3 a 6",
+        "description": "Garantir dos docents treballant amb el grup. Cal concretar cobertura horària, estabilitat i temps de coordinació si es vol precisar l’abast.",
+        "group": ""
+      },
+      {
+        "id": "R07",
+        "title": "Aules d’acollida amb un màxim de deu alumnes per professional",
+        "description": "El formulari identifica expressament les aules d’acollida. La dotació es reclama automàtica i no lligada al padró, per respondre a l’alumnat que realment cal atendre.",
+        "group": ""
+      },
+      {
+        "id": "R08",
+        "title": "Entre dos i quatre alumnes als CEE",
+        "description": "Dimensionar els grups dels centres d’educació especial amb aquesta forquilla. La redacció no concreta els criteris per situar cada grup dins la forquilla.",
+        "group": ""
+      },
+      {
+        "id": "R09",
+        "title": "Reducció proporcional a l’escola rural",
+        "description": "Adaptar les ràtios a la realitat rural, amb dotacions automàtiques no lligades al padró. Cal tenir en compte els grups amb diverses edats i concretar què vol dir «proporcionalment».",
+        "group": ""
+      },
+      {
+        "id": "R10",
+        "title": "Mateixes ràtios a la postobligatòria en línia i presencial",
+        "description": "Evitar que la modalitat en línia impliqui més alumnat assignat a cada professional.",
+        "group": ""
+      },
+      {
+        "id": "R11",
+        "title": "Cap tancament de grups públics",
+        "description": "Mantenir grups i utilitzar la reducció d’alumnat per millorar l’atenció, en lloc de concentrar-lo en menys grups.",
+        "group": ""
+      },
+      {
+        "id": "R12",
+        "title": "La codocència no ha de permetre augmentar ràtios",
+        "description": "Evitar que la presència de dos professionals es converteixi en un motiu per fer grups més grans.",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "inclusiva",
+    "name": "Inclusiva",
+    "minimum": 8,
+    "intro": "Aquest eix vol que la inclusió disposi de professionals, temps i serveis suficients. El document denuncia mancances en el desplegament del sistema inclusiu i proposa reforçar els centres i els serveis que els acompanyen. La pregunta és quins recursos necessitem perquè l’alumnat rebi l’atenció adequada durant tota la jornada i al llarg de les etapes.",
+    "items": [
+      {
+        "id": "I01",
+        "title": "Augment estructural de plantilles",
+        "description": "Proposar 18.000 places de docents i PAE entre 2027 i 2028. El mateix punt esmenta cinc dotacions per centre, un total de 16.225 i reforç dels serveis educatius en quatre anys. Cal aclarir la relació entre aquestes xifres i calendaris.",
+        "group": ""
+      },
+      {
+        "id": "I02",
+        "title": "Equips psicosocials i psicopedagògics",
+        "description": "Crear equips amb integració social i educació social i reforçar els perfils psicopedagògics i especialitzats. Es prioritzen centres de màxima i alta complexitat i municipis amb plans contra l’absentisme, amb extensió progressiva a la resta.",
+        "group": ""
+      },
+      {
+        "id": "I03",
+        "title": "Més personal als CDIAP",
+        "description": "Ampliar els centres de desenvolupament infantil i atenció precoç per acompanyar famílies i professionals en les primeres edats.",
+        "group": ""
+      },
+      {
+        "id": "I04",
+        "title": "Reforç dels EAP i del CRETDIC",
+        "description": "Potenciar els equips d’assessorament psicopedagògic i el servei especialitzat en trastorns del desenvolupament i de la conducta perquè disposin de més capacitat de suport.",
+        "group": ""
+      },
+      {
+        "id": "I05",
+        "title": "Orientació a la postobligatòria",
+        "description": "Reforçar l’acompanyament perquè l’alumnat NESE pugui accedir als estudis i cursar-los amb les adaptacions i els suports que necessita.",
+        "group": ""
+      },
+      {
+        "id": "I06",
+        "title": "Infermeria escolar on calgui",
+        "description": "Incorporar aquest perfil segons les necessitats, començant per tots els CEE. No es proposa un mateix desplegament inicial a tots els centres.",
+        "group": ""
+      },
+      {
+        "id": "I07",
+        "title": "Perfils de suport al 0 a 3",
+        "description": "Incorporar professionals que puguin acompanyar adequadament els infants amb necessitats de suport.",
+        "group": ""
+      },
+      {
+        "id": "I08",
+        "title": "Internalització dels suports del 0 a 3",
+        "description": "Fer que els perfils del punt anterior s’incorporin a la gestió pública directa. Cal concretar l’administració responsable i la transició laboral.",
+        "group": ""
+      },
+      {
+        "id": "I09",
+        "title": "Logopèdia i fisioteràpia al 0 a 3",
+        "description": "Disposar d’acompanyament especialitzat per a les educadores en l’atenció als infants que ho requereixen.",
+        "group": ""
+      },
+      {
+        "id": "I10",
+        "title": "Cobertura durant tota la jornada al 0 a 3",
+        "description": "Garantir recursos suficients mentre l’infant és a l’escola, evitant suports limitats a una part de l’horari quan la necessitat és continuada.",
+        "group": ""
+      },
+      {
+        "id": "I11",
+        "title": "Detecció precoç a primària",
+        "description": "Establir procediments sistemàtics en determinats nivells per detectar dificultats específiques d’aprenentatge. Cal concretar professionals, criteris i resposta posterior; detectar una necessitat ha d’anar acompanyat de suport.",
+        "group": ""
+      },
+      {
+        "id": "I12",
+        "title": "Dotacions de la SIEI de primària",
+        "description": "Reclamar dues dotacions: una MESI, perfil docent que el document identifica per a aquest suport, i una EEE, educadora d’educació especial.",
+        "group": ""
+      },
+      {
+        "id": "I13",
+        "title": "Dotacions de SIEI més",
+        "description": "Reclamar una tutora MESI i dues EEE, i fisioteràpia o logopèdia quan calgui. El punt demana que el suport necessari l’assumeixi el professional especialitzat corresponent i no que es cobreixi indistintament amb vetlladores.",
+        "group": ""
+      },
+      {
+        "id": "I14",
+        "title": "Obrir la borsa d’AEE a tots els territoris",
+        "description": "Facilitar la cobertura de places d’auxiliars d’educació especial als diferents serveis territorials.",
+        "group": ""
+      },
+      {
+        "id": "I15",
+        "title": "Participació dels EAP en les polítiques d’inclusió",
+        "description": "Incorporar la seva experiència al disseny de mesures que després hauran de desplegar.",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "plantilles",
+    "name": "Plantilles",
+    "minimum": 23,
+    "intro": "Aquest és l’eix més extens. Tracta de tenir prou professionals, donar continuïtat als equips i reconèixer les funcions i les condicions de treball dels diferents col·lectius. Per explicar-lo el dividirem en mesures generals, escola bressol, PAE, EAP i altres demandes. Aquesta agrupació ens ajuda a seguir-lo, però cada casella es valora separadament.",
+    "items": [
+      {
+        "id": "P01",
+        "title": "Increment de docents, mestres i PAE",
+        "description": "Ampliar almenys un terç la plantilla que pren com a referència el document, amb una proposta de 30.000 treballadors. L’augment es vincula a la baixada de ràtios de la pública. Cal relacionar-lo amb la proposta de l’eix inclusiu.",
+        "group": "Mesures generals"
+      },
+      {
+        "id": "P02",
+        "title": "Estabilització del personal interí",
+        "description": "Donar estabilitat a les persones que el text identifica com a interines en frau de llei, amb referència a més de tres anys al mateix lloc. Es vota una demanda d’estabilització; el guió no determina la situació jurídica individual ni una via automàtica d’accés.",
+        "group": "Mesures generals"
+      },
+      {
+        "id": "P03",
+        "title": "Oposicions anuals",
+        "description": "Reclamar convocatòries regulars per estabilitzar personal. Convé concretar com s’articula aquest punt amb l’anterior i com es protegeix la continuïtat dels equips.",
+        "group": "Mesures generals"
+      },
+      {
+        "id": "P04",
+        "title": "Còmput de les tutories de pràctiques",
+        "description": "Reconèixer en la dedicació laboral aquesta tasca per a docents i PAE. La casella no concreta el nombre d’hores ni un complement econòmic.",
+        "group": "Mesures generals"
+      },
+      {
+        "id": "P05",
+        "title": "Internalització dels serveis",
+        "description": "Passar a gestió pública directa els serveis enumerats: vetlladores, monitoratge NESE, transport, intèrprets de llengua de signes, extraescolars, acollida, menjador i patis. El PDF fixa abans del curs 2029-2030 i inclou personal municipal del 0 a 3, amb incorporació a la Generalitat o reclassificació.",
+        "group": "Mesures generals"
+      },
+      {
+        "id": "P06",
+        "title": "Totes les vacants al concurs estatal i protecció de les places definitives",
+        "description": "Oferir les vacants disponibles i evitar suprimir places definitives per crear llocs perfilats. Inclou transparència de les vacants i estabilitat del destí.",
+        "group": "Mesures generals"
+      },
+      {
+        "id": "P07",
+        "title": "Concurs autonòmic cada dos anys",
+        "description": "Garantir-lo amb el mateix sistema de provisió que l’estatal. El text utilitza «bianual»; convé esmenar-ho a «biennal» si es vol expressar inequívocament cada dos anys.",
+        "group": "Mesures generals"
+      },
+      {
+        "id": "P08",
+        "title": "Substitucions des del primer dia",
+        "description": "Cobrir absències al més aviat possible, especialment les llargues a l’inici de curs, i reclamar nomenaments d’interins fins al 31 d’agost.",
+        "group": "Mesures generals"
+      },
+      {
+        "id": "P09",
+        "title": "Contractació pel Departament",
+        "description": "Unificar la vinculació amb el sistema públic, amb un 0 a 3 públic, universal, gratuït, inclusiu i de qualitat. Cal concretar el procés de canvi dels models de gestió.",
+        "group": "Escola bressol de 0 a 3"
+      },
+      {
+        "id": "P10",
+        "title": "Calendari equiparat al 3 a 6",
+        "description": "Reclamar aquesta equiparació. Cal especificar calendari del personal, horari del servei i cobertura de les necessitats de les famílies.",
+        "group": "Escola bressol de 0 a 3"
+      },
+      {
+        "id": "P11",
+        "title": "Jubilació anticipada i cessament progressiu",
+        "description": "Permetre reduir o finalitzar l’activitat abans en els termes que s’acordin. No s’hi fixa una edat concreta.",
+        "group": "Escola bressol de 0 a 3"
+      },
+      {
+        "id": "P12",
+        "title": "Borsa única de substitucions",
+        "description": "Integrar la cobertura de baixes del 0 a 3 en un sol sistema públic.",
+        "group": "Escola bressol de 0 a 3"
+      },
+      {
+        "id": "P13",
+        "title": "Revisió de la formació inicial",
+        "description": "Revisar els estudis d’accés i la relació entre magisteri i el cicle formatiu superior. El punt no defineix una nova titulació obligatòria.",
+        "group": "Escola bressol de 0 a 3"
+      },
+      {
+        "id": "P14",
+        "title": "Consergeria a les escoles bressol",
+        "description": "Disposar d’un professional per a porta, telèfon i visites perquè aquestes tasques no recaiguin en educadores o direcció.",
+        "group": "Escola bressol de 0 a 3"
+      },
+      {
+        "id": "P15",
+        "title": "Equiparació de les TEEI rurals",
+        "description": "Reclassificar i equiparar salari i categoria amb les educadores de la Generalitat.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P16",
+        "title": "Reducció de dues hores per a majors de 55 anys del PAE",
+        "description": "Reclamar aquesta reducció. La casella no concreta quines hores de la jornada es redueixen.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P17",
+        "title": "Reclassificació professional",
+        "description": "Actualitzar les categories del personal dels serveis educatius i del PAE, amb modificació del conveni i efectes retroactius a l’1 de gener de 2026 segons el text.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P18",
+        "title": "Més temps de preparació i coordinació",
+        "description": "El punt, dins el bloc PAE, es refereix textualment al PAS; cal aclarir-ne els destinataris. El PDF proposa 23 hores d’atenció directa, 7 de reunions i preparació i 7,5 de formació i treball personal, i convertir les 4 hores de col·laboració en preparació. Cal precisar la distribució final i evitar comptar aquestes quatre hores dues vegades.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P19",
+        "title": "Jubilació anticipada i estadis del PAE",
+        "description": "Reclamar-ne l’aplicació efectiva i el reconeixement de la carrera professional.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P20",
+        "title": "Funcions i dotació horària clares",
+        "description": "Definir què correspon a cada perfil del PAE i assignar-hi temps objectiu.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P21",
+        "title": "Equips PAE més amplis i una TEI a cada I3",
+        "description": "Augmentar els equips i garantir aquest suport a cada grup del primer curs del segon cicle d’infantil.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P22",
+        "title": "Places de programes pilot estructurals",
+        "description": "Consolidar places PAE que depenen de programes o fons temporals perquè el suport no desaparegui quan acaba el finançament.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P23",
+        "title": "Elecció de zones properes a les borses",
+        "description": "Facilitar la conciliació i reduir desplaçaments mitjançant una tria territorial.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P24",
+        "title": "Congelar el número de borsa",
+        "description": "Permetre una pausa en la disponibilitat en condicions que cal concretar, preservant la posició.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P25",
+        "title": "Complement de perillositat per a EEE",
+        "description": "Reclamar reconeixement retributiu en els casos corresponents. Cal definir-ne els supòsits i mantenir les mesures preventives necessàries.",
+        "group": "Personal d’atenció educativa"
+      },
+      {
+        "id": "P26",
+        "title": "Nou decret dels EAP",
+        "description": "Actualitzar l’organització, els recursos i les condicions d’aquests serveis respecte del marc que el document identifica com a antic.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P27",
+        "title": "Concurs de mèrits",
+        "description": "Oferir un procés específic per consolidar places. El PDF també proposa valorar competències amb supòsit pràctic o entrevista; cal contrastar aquesta concreció amb la demanda general d’eliminar entrevistes a l’eix democràcia.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P28",
+        "title": "Ampliació de perfils dels EAP",
+        "description": "Reforçar psicopedagogia, treball social, fisioteràpia i logopèdia, amb intervenció des de l’escola bressol fins a la postobligatòria.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P29",
+        "title": "Reconeixement de càrrecs i responsabilitats",
+        "description": "Valorar coordinacions i tasques exercides en els processos de provisió i promoció.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P30",
+        "title": "Millor coordinació i transmissió d’informació",
+        "description": "Organitzar la relació amb serveis sanitaris, socials i educatius i garantir informació per vies institucionals.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P31",
+        "title": "Menys càrrega administrativa i logística",
+        "description": "Revisar tràmits, beques i gestió de suports per recuperar temps d’intervenció especialitzada.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P32",
+        "title": "Equiparació del PAS dels EAP amb el cos docent",
+        "description": "Apropar condicions laborals, retributives i horàries. Cal concretar les equivalències entre perfils.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P33",
+        "title": "Complement d’EAP per a tots els perfils",
+        "description": "Actualitzar-lo i reconèixer el conjunt de professionals que formen aquests equips.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P34",
+        "title": "Hores de formació interna",
+        "description": "Reservar temps de formació equiparable al d’altres serveis educatius.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P35",
+        "title": "Recursos territorials i participació en la inclusió",
+        "description": "Garantir recursos especialitzats als diferents territoris i participació dels EAP en el disseny de mesures.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P36",
+        "title": "Funcions actualitzades dels EAP",
+        "description": "Delimitar les tasques pròpies i les responsabilitats del servei.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P37",
+        "title": "Compensació dels desplaçaments",
+        "description": "Actualitzar quilometratge, pagar trajectes dins el municipi de la seu i reemborsar aparcament derivat de la itinerància.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P38",
+        "title": "Jornada de 35,5 hores",
+        "description": "Reclamar l’aplicació efectiva d’aquesta jornada segons la proposta.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P39",
+        "title": "Teletreball compatible",
+        "description": "Desenvolupar-lo per a les tasques que es puguin fer amb aquesta modalitat.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P40",
+        "title": "Permanència al juliol",
+        "description": "Revisar els dies de presència obligatòria durant aquest mes.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P41",
+        "title": "Dispositius de treball",
+        "description": "Dotar els equips de portàtils o tauletes operatives i telèfons corporatius.",
+        "group": "Equips d’assessorament psicopedagògic"
+      },
+      {
+        "id": "P42",
+        "title": "Internalització del personal del lleure",
+        "description": "Incorporar a gestió pública directa monitoratge de menjador i pati, vetlladores i altres perfils. Se solapa parcialment amb P05, però el formulari el recull per separat.",
+        "group": "Lleure i altres demandes"
+      },
+      {
+        "id": "P43",
+        "title": "Més personal de lleure",
+        "description": "Ampliar plantilles de menjadors, patis, extraescolars, sortides i colònies.",
+        "group": "Lleure i altres demandes"
+      },
+      {
+        "id": "P44",
+        "title": "Professionals de l’escola rural",
+        "description": "Equiparar salari i categoria de les TEEI rurals i millorar-ne la formació i el reconeixement. Se solapa parcialment amb P15.",
+        "group": "Lleure i altres demandes"
+      },
+      {
+        "id": "P45",
+        "title": "Reducció lectiva per a majors de 55 anys",
+        "description": "Reclamar dues hores lectives setmanals sense condicions d’antiguitat. Es diferencia de P16 perquè aquest punt especifica hores lectives i no es presenta com a demanda exclusiva del PAE.",
+        "group": "Lleure i altres demandes"
+      }
+    ]
+  },
+  {
+    "id": "burocracia",
+    "name": "Burocràcia",
+    "minimum": 3,
+    "intro": "Aquest eix vol recuperar temps per a la feina educativa eliminant tràmits duplicats, millorant eines i incorporant personal administratiu. El document assenyala que la solució ha de reduir la càrrega real de treball. Cal mirar tant què demana l’Administració com què ens demanem internament al centre.",
+    "items": [
+      {
+        "id": "B01",
+        "title": "Unificar aplicatius de l’Administració",
+        "description": "Reduir sistemes i evitar haver d’introduir la mateixa informació diverses vegades, als centres i als EAP.",
+        "group": ""
+      },
+      {
+        "id": "B02",
+        "title": "Evitar duplicats interns",
+        "description": "Revisar registres, documents i circuits del centre perquè una mateixa gestió no es repeteixi en diferents eines.",
+        "group": ""
+      },
+      {
+        "id": "B03",
+        "title": "Participació del professorat en el disseny d’eines",
+        "description": "Fer que els aplicatius i els traspassos d’informació s’adaptin a les necessitats de qui els utilitza.",
+        "group": ""
+      },
+      {
+        "id": "B04",
+        "title": "Millorar les eines actuals",
+        "description": "Fer més pràctics i fiables aplicatius com Esfera o e-Valisa perquè no calgui repetir manualment les tasques.",
+        "group": ""
+      },
+      {
+        "id": "B05",
+        "title": "Més personal administratiu",
+        "description": "Ampliar PAS de l’escola bressol a secundària per assumir feina administrativa. El PDF posa exemples de gestió econòmica, beques i altres tràmits que ara assumeixen docents o direccions.",
+        "group": ""
+      },
+      {
+        "id": "B06",
+        "title": "PAS estable a cada centre rural",
+        "description": "Garantir una dotació pròpia, integrat o no en una ZER, per gestionar tasques econòmiques i acadèmiques independentment del nombre d’alumnes.",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "democracia",
+    "name": "Democràcia al centre",
+    "minimum": 9,
+    "intro": "Aquest eix tracta de qui decideix al centre, com es trien responsabilitats i com es proveeixen les places. El document proposa donar més capacitat de decisió als claustres i ampliar la participació d’altres professionals. Hi ha demandes concretes i una de canvi del marc normatiu. Cal valorar-ne l’abast sense atribuir automàticament els problemes descrits a la direcció del nostre centre.",
+    "items": [
+      {
+        "id": "D01",
+        "title": "Més força de decisió dels claustres",
+        "description": "Reclamar capacitat efectiva per governar i orientar el centre. Cal concretar sobre quins assumptes i amb quins mecanismes.",
+        "group": ""
+      },
+      {
+        "id": "D02",
+        "title": "Elecció de direcció pel claustre o més pes en l’elecció",
+        "description": "El punt presenta dues opcions amb abast diferent. Una esmena pot concretar quina es defensa.",
+        "group": ""
+      },
+      {
+        "id": "D03",
+        "title": "Eliminar adjudicacions per entrevista",
+        "description": "Reclamar un sistema de provisió basat en criteris objectius i coneguts.",
+        "group": ""
+      },
+      {
+        "id": "D04",
+        "title": "Vot del PAE i de les vetlladores als claustres",
+        "description": "Ampliar la participació amb capacitat de votar del personal que acompanya l’alumnat NESE. Es presenta com una demanda de canvi.",
+        "group": ""
+      },
+      {
+        "id": "D05",
+        "title": "Vot i participació del lleure",
+        "description": "Reconèixer-ne la participació en les decisions. Cal definir en quins òrgans i amb quin abast, perquè la casella no ho precisa.",
+        "group": ""
+      },
+      {
+        "id": "D06",
+        "title": "Retorn a la col·legialitat",
+        "description": "Fer que la direcció representi el claustre davant del Departament i recuperar decisions compartides, elecció de direcció i adjudicació per antiguitat i mèrits. Agrupa demandes dels punts anteriors.",
+        "group": ""
+      },
+      {
+        "id": "D07",
+        "title": "Derogació dels decrets d’autonomia, direcció i plantilles",
+        "description": "Reclamar la derogació dels decrets 102/2010, 155/2010 i 39/2014 per modificar el marc que el document vincula a l’arbitrarietat. És una demanda àmplia; convé preguntar quin sistema alternatiu es proposa.",
+        "group": ""
+      },
+      {
+        "id": "D08",
+        "title": "Eliminar entrevistes i no continuïtats no objectives",
+        "description": "Donar garanties i criteris transparents a la provisió de llocs i a la continuïtat del personal.",
+        "group": ""
+      },
+      {
+        "id": "D09",
+        "title": "Eliminar els perfils",
+        "description": "Rebutjar el sistema de llocs perfilats. Cal explicar com es garantiria l’adequació professional amb criteris objectius alternatius.",
+        "group": ""
+      },
+      {
+        "id": "D10",
+        "title": "Direccions com a membres del claustre",
+        "description": "Reclamar una funció de representació i coordinació vinculada al claustre, amb revisió del paper de cap de personal que critica el text.",
+        "group": ""
+      },
+      {
+        "id": "D11",
+        "title": "Participació en la tria de càrrecs",
+        "description": "Donar al claustre participació efectiva en l’elecció de càrrecs directius i coordinacions.",
+        "group": ""
+      },
+      {
+        "id": "D12",
+        "title": "Participació en la renovació dels projectes de direcció",
+        "description": "Fer que la valoració del claustre tingui pes real en la tria i la renovació dels equips directius.",
+        "group": ""
+      },
+      {
+        "id": "D13",
+        "title": "Equips directius plurals i rotatius al 0 a 3",
+        "description": "Distribuir responsabilitats entre més d’una persona i establir relleus.",
+        "group": ""
+      },
+      {
+        "id": "D14",
+        "title": "Projectes de direcció renovables cada quatre anys al 0 a 3",
+        "description": "Preveure direcció, secretaria i cap d’estudis amb una organització comparable a altres etapes, segons la proposta.",
+        "group": ""
+      },
+      {
+        "id": "D15",
+        "title": "Preservar equips i projectes de les llars municipals",
+        "description": "Si el Departament les incorpora, garantir la continuïtat dels equips educatius i els projectes existents.",
+        "group": ""
+      },
+      {
+        "id": "D16",
+        "title": "Resoldre la situació de qui té càrrec directiu al 0 a 3",
+        "description": "El punt és molt obert. Cal concretar quin problema es vol resoldre i quina garantia es reclama.",
+        "group": ""
+      },
+      {
+        "id": "D17",
+        "title": "Dedicació de la direcció al 0 a 3",
+        "description": "Evitar que la funció directiva s’hagi de compaginar amb tutories o altres càrrecs, dotant-la de dedicació suficient.",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "curriculum",
+    "name": "Currículum",
+    "minimum": 11,
+    "intro": "Aquest eix tracta dels continguts, el temps d’aprenentatge i la participació dels professionals en els canvis curriculars. El document demana estabilitat i temps per aplicar els canvis, i recull propostes d’etapes i especialitats. Hem de valorar cada demanda pel que aporta a l’alumnat i per les condicions que necessita per fer-se efectiva.",
+    "items": [
+      {
+        "id": "C01",
+        "title": "Participació en l’elaboració del currículum",
+        "description": "Incorporar representants dels professionals a les decisions normatives i a la planificació educativa a curt, mitjà i llarg termini.",
+        "group": "Participació i etapa infantil"
+      },
+      {
+        "id": "C02",
+        "title": "Unificació efectiva del 0 a 6",
+        "description": "Augmentar recursos i coordinar criteris pedagògics dels dos cicles. Aquesta casella parla de continuïtat educativa; la gestió i la contractació es tracten a plantilles.",
+        "group": "Participació i etapa infantil"
+      },
+      {
+        "id": "C03",
+        "title": "Música i Dansa com a àrea pròpia a primària",
+        "description": "Recuperar-ne l’avaluació diferenciada de la plàstica.",
+        "group": "Música"
+      },
+      {
+        "id": "C04",
+        "title": "Dotació horària de Música",
+        "description": "El document reclama 315 hores al conjunt de primària, amb referència a 1,5 hores setmanals; 2 hores a 1r, 2n i 3r d’ESO, amb un total de 210 hores; i una optativa de 70 hores a 4t, també de 2 hores setmanals. Els totals corresponen al conjunt dels cursos indicats, no a cadascun dels cursos.",
+        "group": "Música"
+      },
+      {
+        "id": "C05",
+        "title": "Aules de música i equipament",
+        "description": "Finançar nous espais i millorar les aules existents.",
+        "group": "Música"
+      },
+      {
+        "id": "C06",
+        "title": "Quatre hores de ciències a primer de batxillerat",
+        "description": "Recuperar aquesta dedicació per a Física, Química, Biologia i Ciències de la Terra i Medi Ambient segons la proposta. El text cita canvis del curs 2025-2026; cal actualitzar-ne la referència temporal quan es traslladi l’esmena.",
+        "group": "Ciències"
+      },
+      {
+        "id": "C07",
+        "title": "Hores obligatòries de ciències a l’ESO",
+        "description": "El redactat reclama 5 hores de Física i Química i 5 de Biologia i Geologia «de 1r a 3r», eliminant hores de gestió autònoma. Cal precisar com es distribueixen aquestes hores entre cursos; no presentar-ho com cinc hores de cada matèria a cada curs.",
+        "group": "Ciències"
+      },
+      {
+        "id": "C08",
+        "title": "Optatives científiques de quart d’ESO de tres hores",
+        "description": "Garantir aquesta dedicació a les optatives del bloc de ciències.",
+        "group": "Ciències"
+      },
+      {
+        "id": "C09",
+        "title": "Tercera hora de Filosofia a primer de batxillerat",
+        "description": "Recuperar una dedicació setmanal de tres hores.",
+        "group": "Filosofia i valors"
+      },
+      {
+        "id": "C10",
+        "title": "Més presència de valors cívics i ètics a l’ESO",
+        "description": "Ampliar l’espai curricular d’aquesta educació. No s’hi fixa una xifra d’hores.",
+        "group": "Filosofia i valors"
+      },
+      {
+        "id": "C11",
+        "title": "Filosofia optativa a quart d’ESO",
+        "description": "Garantir-ne l’oferta a tots els centres i itineraris.",
+        "group": "Filosofia i valors"
+      },
+      {
+        "id": "C12",
+        "title": "Especificitat de la Filosofia",
+        "description": "Reconèixer la identitat de la disciplina i les matèries del seu àmbit a l’ESO i al batxillerat.",
+        "group": "Filosofia i valors"
+      },
+      {
+        "id": "C13",
+        "title": "Optatives assignades a especialistes",
+        "description": "Garantir que les del seu àmbit al batxillerat les assumeixin especialistes en Filosofia.",
+        "group": "Filosofia i valors"
+      },
+      {
+        "id": "C14",
+        "title": "Coordinació entre currículum i PAU",
+        "description": "Alinear continguts de la matèria i proves d’accés a la universitat.",
+        "group": "Filosofia i valors"
+      },
+      {
+        "id": "C15",
+        "title": "Formació contínua en Filosofia",
+        "description": "Reclamar oferta, finançament i seguiment de la qualitat de la formació docent.",
+        "group": "Filosofia i valors"
+      },
+      {
+        "id": "C16",
+        "title": "Banc de recursos",
+        "description": "Compartir materials per facilitar l’accés a recursos educatius de l’àmbit de la Filosofia.",
+        "group": "Filosofia i valors"
+      },
+      {
+        "id": "C17",
+        "title": "Més hores de català i castellà",
+        "description": "Augmentar-ne la dedicació a l’ESO i al batxillerat i reduir matèries de nova creació. Cal concretar quines matèries, quantes hores i com quedaria l’horari global.",
+        "group": "Llengües i formació professional"
+      },
+      {
+        "id": "C18",
+        "title": "Actualització del currículum d’FP",
+        "description": "Revisar-lo amb urgència. La casella general es desenvolupa als punts següents.",
+        "group": "Llengües i formació professional"
+      },
+      {
+        "id": "C19",
+        "title": "Mesa permanent de currículum d’FP",
+        "description": "Establir un espai de negociació amb el Departament. El text planteja incorporar després famílies i alumnat; es pot debatre qui hi ha de participar i des de quin moment.",
+        "group": "Llengües i formació professional"
+      },
+      {
+        "id": "C20",
+        "title": "Hores de pràctiques i remuneració",
+        "description": "Ajustar les pràctiques al pla pedagògic i debatre’n la remuneració. La frase «remuneració per part de l’alumnat» és ambigua: cal aclarir si es vol dir remuneració percebuda per l’alumnat i qui la paga. No donar aquesta interpretació per acordada sense esmena.",
+        "group": "Llengües i formació professional"
+      },
+      {
+        "id": "C21",
+        "title": "Reduir el nombre de pràctiques",
+        "description": "Prioritzar una base de coneixement professional suficient. Cal especificar si es parla d’hores, períodes o activitats, i quin mínim es considera pedagògicament adequat.",
+        "group": "Llengües i formació professional"
+      },
+      {
+        "id": "C22",
+        "title": "Especialitats d’FP més concretes i titulació adequada",
+        "description": "Delimitar millor les especialitats i adequar-hi la formació del professorat, amb calendari de transició si cal. No s’hi concreta aquest calendari.",
+        "group": "Llengües i formació professional"
+      }
+    ]
+  },
+  {
+    "id": "llengua",
+    "name": "Llengua catalana",
+    "minimum": 7,
+    "intro": "Aquest eix proposa reforçar l’aprenentatge i l’ús del català amb recursos, suport lingüístic, materials i compromisos de centre. Inclou l’acollida d’alumnat nouvingut i la continuïtat de l’ús del català al lleure i a les pràctiques d’FP. També planteja com s’acrediten els nivells lingüístics i com es fa el seguiment dels compromisos.",
+    "items": [
+      {
+        "id": "L01",
+        "title": "Recursos per a la immersió",
+        "description": "Augmentar dotacions perquè el projecte lingüístic disposi dels mitjans educatius necessaris.",
+        "group": ""
+      },
+      {
+        "id": "L02",
+        "title": "Aules d’acollida flexibles",
+        "description": "Adaptar recursos a la matrícula viva i mantenir ràtios assumibles. La matrícula viva és l’alumnat que s’incorpora durant el curs.",
+        "group": ""
+      },
+      {
+        "id": "L03",
+        "title": "Grups de reforç lingüístic",
+        "description": "Oferir suport específic a l’alumnat nouvingut per facilitar aprenentatge i participació en el centre. Cal concretar-ne la durada i la coordinació amb l’aula ordinària.",
+        "group": ""
+      },
+      {
+        "id": "L04",
+        "title": "Acreditació vinculada al nivell real i proposta de B2",
+        "description": "La casella combina una demanda general sobre el C1 amb la proposta d’obtenir el B2 amb un assoliment notable en català a quart d’ESO. Convé separar aquests dos continguts si es volen votar de manera independent.",
+        "group": ""
+      },
+      {
+        "id": "L05",
+        "title": "Proposta de C1 a segon de batxillerat",
+        "description": "Vincular-lo a un assoliment notable en català o a una prova. És una proposta de criteri d’acreditació, no una explicació dels requisits vigents.",
+        "group": ""
+      },
+      {
+        "id": "L06",
+        "title": "Protecció institucional del català",
+        "description": "Reclamar actuació del Departament per garantir-ne l’ús. Cal concretar quines actuacions es volen prioritzar.",
+        "group": ""
+      },
+      {
+        "id": "L07",
+        "title": "Materials en català",
+        "description": "Garantir recursos de consulta i audiovisuals, amb especial atenció als materials d’FP.",
+        "group": ""
+      },
+      {
+        "id": "L08",
+        "title": "Projectes lingüístics actualitzats i vinculants",
+        "description": "Elaborar compromisos clars de centre, amb implicació de l’equip directiu i seguiment de l’aplicació.",
+        "group": ""
+      },
+      {
+        "id": "L09",
+        "title": "Inspecció activa",
+        "description": "Reclamar seguiment del català com a llengua vehicular als centres públics i concertats.",
+        "group": ""
+      },
+      {
+        "id": "L10",
+        "title": "Clàusules lingüístiques a les subcontractacions",
+        "description": "Garantir compromisos de llengua als serveis subcontractats mentre es reclama la seva internalització.",
+        "group": ""
+      },
+      {
+        "id": "L11",
+        "title": "Reconeixement de la figura LIC",
+        "description": "Definir funcions, temps i memòria d’actuació de la figura de llengua, interculturalitat i cohesió social que recull el document. Cal concretar el perfil o càrrec al qual s’adreça la demanda.",
+        "group": ""
+      },
+      {
+        "id": "L12",
+        "title": "Pla de català a l’FP i a les pràctiques",
+        "description": "Implicar centres educatius i centres de treball que tutoritzen FP dual.",
+        "group": ""
+      },
+      {
+        "id": "L13",
+        "title": "Bústia independent de queixes lingüístiques",
+        "description": "Crear un canal institucional independent del Departament. El PDF vincula la demanda a la protecció de les persones que presenten queixes; cal concretar garanties i funcionament.",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "infraestructures",
+    "name": "Infraestructures i condicions de treball",
+    "minimum": 3,
+    "intro": "Aquest eix demana espais educatius adequats i condicions de treball saludables. Inclou temperatura, ventilació, edificis, patis i superfície de les aules. La proposta de climatització necessita un calendari d’actuacions i les altres mesures poden complementar-la. També recull necessitats específiques de l’escola rural.",
+    "items": [
+      {
+        "id": "F01",
+        "title": "Pla urgent de climatització i calefacció",
+        "description": "Reclamar actuacions amb terminis i la referència de 17 a 27 °C que utilitza el document. Cal concretar pressupost, prioritats i seguiment de les obres.",
+        "group": ""
+      },
+      {
+        "id": "F02",
+        "title": "Mesures tèrmiques i de ventilació",
+        "description": "Instal·lar refrigeració eficient, millorar aïllament i protecció solar, i disposar de ventilació mecànica. Són actuacions concretes per desenvolupar el pla.",
+        "group": ""
+      },
+      {
+        "id": "F03",
+        "title": "Retirar barracons i construir centres",
+        "description": "Substituir instal·lacions provisionals amb una planificació d’edificis adequats.",
+        "group": ""
+      },
+      {
+        "id": "F04",
+        "title": "Renaturalitzar patis",
+        "description": "Crear refugis climàtics, augmentar arbrat i reduir ciment per disposar d’espais exteriors més adequats.",
+        "group": ""
+      },
+      {
+        "id": "F05",
+        "title": "Superfície per infant",
+        "description": "Reclamar almenys 2 m² per infant a les aules d’infantil i 4 m² al 0 a 3. Cal precisar la superfície útil que es vol computar i diferenciar les dues etapes.",
+        "group": ""
+      },
+      {
+        "id": "F06",
+        "title": "Equipaments de l’escola rural",
+        "description": "Millorar calefacció, gimnàs, biblioteques i altres infraestructures específiques.",
+        "group": ""
+      }
+    ]
+  }
+]

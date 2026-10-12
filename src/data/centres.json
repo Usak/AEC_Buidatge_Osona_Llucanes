@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "08000086",
+    "name": "Escola La Forja - ZER Alt Lluçanès",
+    "comarca": "Lluçanès",
+    "municipi": "Alpens",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08019861",
+    "name": "Escola Gafarró - ZER Alt Lluçanès",
+    "comarca": "Lluçanès",
+    "municipi": "Lluçà",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08074707",
+    "name": "Llar d'infants Gafarronets",
+    "comarca": "Lluçanès",
+    "municipi": "Lluçà",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08022495",
+    "name": "Escola Terra Nostra",
+    "comarca": "Lluçanès",
+    "municipi": "Olost",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08061567",
+    "name": "Llar d'infants Estel",
+    "comarca": "Lluçanès",
+    "municipi": "Olost",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08022549",
+    "name": "Escola Llevant - ZER Gavarresa",
+    "comarca": "Lluçanès",
+    "municipi": "Oristà",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08034795",
+    "name": "Escola Heurom - ZER Alt Lluçanès",
+    "comarca": "Lluçanès",
+    "municipi": "Perafita",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08071974",
+    "name": "Llar d'infants Petit Heurom",
+    "comarca": "Lluçanès",
+    "municipi": "Perafita",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08065627",
+    "name": "Esc. de Música del Lluçanès",
+    "comarca": "Lluçanès",
+    "municipi": "Prats de Lluçanès",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08072371",
+    "name": "Escola Bressol La Pitota",
+    "comarca": "Lluçanès",
+    "municipi": "Prats de Lluçanès",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08023207",
+    "name": "Escola Lluçanès",
+    "comarca": "Lluçanès",
+    "municipi": "Prats de Lluçanès",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08023189",
+    "name": "FEDAC-Prats",
+    "comarca": "Lluçanès",
+    "municipi": "Prats de Lluçanès",
+    "naturalesa": "Privat",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08053005",
+    "name": "Institut Castell de Quer",
+    "comarca": "Lluçanès",
+    "municipi": "Prats de Lluçanès",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08064404",
+    "name": "Esc. de Música Municipal d'Aiguafreda",
+    "comarca": "Osona",
+    "municipi": "Aiguafreda",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08000359",
+    "name": "Escola La Muntanya",
+    "comarca": "Osona",
+    "municipi": "Aiguafreda",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08072875",
+    "name": "Escola Bressol El Roc Petit",
+    "comarca": "Osona",
+    "municipi": "Balenyà",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08076959",
+    "name": "Institut Escola Carles Capdevila",
+    "comarca": "Osona",
+    "municipi": "Balenyà",
+    "naturalesa": "Públic",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08015193",
+    "name": "Escola Sant Marc",
+    "comarca": "Osona",
+    "municipi": "Calldetenes",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08063837",
+    "name": "Institut Les Margues",
+    "comarca": "Osona",
+    "municipi": "Calldetenes",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08059068",
+    "name": "Llar d'infants Municipal de Calldetenes",
+    "comarca": "Osona",
+    "municipi": "Calldetenes",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08071391",
+    "name": "CFA Centelles",
+    "comarca": "Osona",
+    "municipi": "Centelles",
+    "naturalesa": "Públic",
+    "tipus": "Adults"
+  },
+  {
+    "id": "08059184",
+    "name": "Esc. de Música Municipal",
+    "comarca": "Osona",
+    "municipi": "Centelles",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08016185",
+    "name": "Escola Ildefons Cerdà",
+    "comarca": "Osona",
+    "municipi": "Centelles",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08067041",
+    "name": "Escola Xoriguer",
+    "comarca": "Osona",
+    "municipi": "Centelles",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08044569",
+    "name": "Institut Pere Barnils",
+    "comarca": "Osona",
+    "municipi": "Centelles",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08063175",
+    "name": "Llar d'infants Niu d'Infants",
+    "comarca": "Osona",
+    "municipi": "Centelles",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08016203",
+    "name": "Vedruna Sagrats Cors Centelles",
+    "comarca": "Osona",
+    "municipi": "Centelles",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08076996",
+    "name": "Institut Escola Mossen Cinto",
+    "comarca": "Osona",
+    "municipi": "Folgueroles",
+    "naturalesa": "Públic",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08066218",
+    "name": "Llar d'infants Patufet",
+    "comarca": "Osona",
+    "municipi": "Folgueroles",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08064210",
+    "name": "Esc. de Música Municipal de Gurb",
+    "comarca": "Osona",
+    "municipi": "Gurb",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08018029",
+    "name": "Escola Les Escoles",
+    "comarca": "Osona",
+    "municipi": "Gurb",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08068380",
+    "name": "Institut Gurb",
+    "comarca": "Osona",
+    "municipi": "Gurb",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08063217",
+    "name": "Llar d'infants La Quitxalla",
+    "comarca": "Osona",
+    "municipi": "Gurb",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08071664",
+    "name": "Escola Bressol L'Esquirol",
+    "comarca": "Osona",
+    "municipi": "L'Esquirol",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08078439",
+    "name": "Institut Escola El Cabrerès",
+    "comarca": "Osona",
+    "municipi": "L'Esquirol",
+    "naturalesa": "Públic",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08073582",
+    "name": "Llar d'infants de les Masies de Roda",
+    "comarca": "Osona",
+    "municipi": "Les Masies de Roda",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08032154",
+    "name": "EFA Quintanes",
+    "comarca": "Osona",
+    "municipi": "Les Masies de Voltregà",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08020701",
+    "name": "Escola Comtes de Lacambra",
+    "comarca": "Osona",
+    "municipi": "Les Masies de Voltregà",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08060976",
+    "name": "Institut del Voltreganès",
+    "comarca": "Osona",
+    "municipi": "Les Masies de Voltregà",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08066644",
+    "name": "Llar d'infants Can Riva",
+    "comarca": "Osona",
+    "municipi": "Les Masies de Voltregà",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08026543",
+    "name": "Mare de Déu de la Gleva",
+    "comarca": "Osona",
+    "municipi": "Les Masies de Voltregà",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08079432",
+    "name": "Albir",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08063621",
+    "name": "CFA Martí i Pol",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Públic",
+    "tipus": "Adults"
+  },
+  {
+    "id": "08039215",
+    "name": "Casals-Gràcia",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08055233",
+    "name": "Esc. de Música Municipal de Manlleu",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08066711",
+    "name": "Escola Bressol Colors",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08071068",
+    "name": "Escola Bressol Els Picarols",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08039628",
+    "name": "Escola Pompeu Fabra",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08019940",
+    "name": "Escola Puig-Agut",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08060964",
+    "name": "Escola Quatre Vents",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08077319",
+    "name": "Escola de Dansa Ma. Cinta",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08040552",
+    "name": "Institut Antoni Pous i Argila",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08072176",
+    "name": "Institut del Ter",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08019952",
+    "name": "La Salle Manlleu",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Privat",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08074379",
+    "name": "Tangram",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Privat",
+    "tipus": "Adults"
+  },
+  {
+    "id": "08078002",
+    "name": "Teknós_UManlleu",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08019976",
+    "name": "Vedruna Manlleu",
+    "comarca": "Osona",
+    "municipi": "Manlleu",
+    "naturalesa": "Privat",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08021961",
+    "name": "Escola El Rocal",
+    "comarca": "Osona",
+    "municipi": "Montesquiu",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08066656",
+    "name": "Llar d'infants Els Putxinel·lis",
+    "comarca": "Osona",
+    "municipi": "Montesquiu",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08063928",
+    "name": "Escola Muntanyola",
+    "comarca": "Osona",
+    "municipi": "Muntanyola",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08068070",
+    "name": "Llar d'infants de Muntanyola",
+    "comarca": "Osona",
+    "municipi": "Muntanyola",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08064271",
+    "name": "Esc. de Música Municipal El Faristol",
+    "comarca": "Osona",
+    "municipi": "Roda de Ter",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08047170",
+    "name": "Escola Bressol La Llavor",
+    "comarca": "Osona",
+    "municipi": "Roda de Ter",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08064787",
+    "name": "Escola Emili Teixidor",
+    "comarca": "Osona",
+    "municipi": "Roda de Ter",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08023669",
+    "name": "Escola Mare de Déu del Sòl del Pont",
+    "comarca": "Osona",
+    "municipi": "Roda de Ter",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08053042",
+    "name": "Institut Miquel Martí i Pol",
+    "comarca": "Osona",
+    "municipi": "Roda de Ter",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08039631",
+    "name": "Escola L'Agullola",
+    "comarca": "Osona",
+    "municipi": "Rupit i Pruit",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08025320",
+    "name": "Escola La Monjoia",
+    "comarca": "Osona",
+    "municipi": "Sant Bartomeu del Grau",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08055361",
+    "name": "Llar d'infants El Patufet",
+    "comarca": "Osona",
+    "municipi": "Sant Bartomeu del Grau",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08025666",
+    "name": "Escola Aurora - ZER Alt Lluçanès",
+    "comarca": "Osona",
+    "municipi": "Sant Boi de Lluçanès",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08069931",
+    "name": "Llar d'infants Municipal El Cargol",
+    "comarca": "Osona",
+    "municipi": "Sant Boi de Lluçanès",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08055294",
+    "name": "Esc. de Música Municipal de Sant Hipòlit de Voltregà",
+    "comarca": "Osona",
+    "municipi": "Sant Hipòlit de Voltregà",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08077113",
+    "name": "Escola Voltregà",
+    "comarca": "Osona",
+    "municipi": "Sant Hipòlit de Voltregà",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08058544",
+    "name": "LLI privada Mare Teresa Gallifa",
+    "comarca": "Osona",
+    "municipi": "Sant Hipòlit de Voltregà",
+    "naturalesa": "Privat",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08026798",
+    "name": "El Roser",
+    "comarca": "Osona",
+    "municipi": "Sant Julià de Vilatorta",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08026786",
+    "name": "Escola Bellpuig",
+    "comarca": "Osona",
+    "municipi": "Sant Julià de Vilatorta",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08060381",
+    "name": "Llar d'infants Patuleia",
+    "comarca": "Osona",
+    "municipi": "Sant Julià de Vilatorta",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08064829",
+    "name": "Escola Valldeneu",
+    "comarca": "Osona",
+    "municipi": "Sant Martí de Centelles",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08071962",
+    "name": "Llar d'infants L'Arc de Sant Martí",
+    "comarca": "Osona",
+    "municipi": "Sant Martí de Centelles",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08045318",
+    "name": "Escola Bressol L'Avet",
+    "comarca": "Osona",
+    "municipi": "Sant Pere de Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08076984",
+    "name": "Institut Escola Josep Maria Xandri",
+    "comarca": "Osona",
+    "municipi": "Sant Pere de Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08027249",
+    "name": "Escola Segimon Comas",
+    "comarca": "Osona",
+    "municipi": "Sant Quirze de Besora",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08058428",
+    "name": "Institut Bisaura",
+    "comarca": "Osona",
+    "municipi": "Sant Quirze de Besora",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08064465",
+    "name": "Llar d'infants Els Quirzets",
+    "comarca": "Osona",
+    "municipi": "Sant Quirze de Besora",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08028709",
+    "name": "Escola Lloriana",
+    "comarca": "Osona",
+    "municipi": "Sant Vicenç de Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08060371",
+    "name": "Llar d'infants Els Gallarets",
+    "comarca": "Osona",
+    "municipi": "Sant Vicenç de Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08028059",
+    "name": "Escola Jacint Verdaguer",
+    "comarca": "Osona",
+    "municipi": "Santa Eugènia de Berga",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08062377",
+    "name": "Llar d'infants Ralet ralet",
+    "comarca": "Osona",
+    "municipi": "Santa Eugènia de Berga",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08028072",
+    "name": "Escola El Roure Gros",
+    "comarca": "Osona",
+    "municipi": "Santa Eulàlia de Riuprimer",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08064544",
+    "name": "Llar d'infants El Roure Xic",
+    "comarca": "Osona",
+    "municipi": "Santa Eulàlia de Riuprimer",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08038201",
+    "name": "Escola La Baumeta - ZER Els Castells",
+    "comarca": "Osona",
+    "municipi": "Santa Maria de Besora",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08029027",
+    "name": "Escola Farigola",
+    "comarca": "Osona",
+    "municipi": "Seva",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08041714",
+    "name": "Escola Les Basseroles",
+    "comarca": "Osona",
+    "municipi": "Seva",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08070064",
+    "name": "Llar d'infants El Bressol",
+    "comarca": "Osona",
+    "municipi": "Seva",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08068902",
+    "name": "Llar d'infants El Menut",
+    "comarca": "Osona",
+    "municipi": "Seva",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08076871",
+    "name": "Llar d'infants de Sora",
+    "comarca": "Osona",
+    "municipi": "Sora",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08066097",
+    "name": "Esc. de Música Municipal de Taradell",
+    "comarca": "Osona",
+    "municipi": "Taradell",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08045987",
+    "name": "Escola Bressol Municipal La Xarranca",
+    "comarca": "Osona",
+    "municipi": "Taradell",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08029283",
+    "name": "Escola El Gurri - ZER Guilleries",
+    "comarca": "Osona",
+    "municipi": "Taradell",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08029301",
+    "name": "Escola Les Pinediques",
+    "comarca": "Osona",
+    "municipi": "Taradell",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08053121",
+    "name": "Institut Taradell",
+    "comarca": "Osona",
+    "municipi": "Taradell",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08029313",
+    "name": "Sant Genís-Santa Agnès",
+    "comarca": "Osona",
+    "municipi": "Taradell",
+    "naturalesa": "Privat",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08055099",
+    "name": "CFA Tona",
+    "comarca": "Osona",
+    "municipi": "Tona",
+    "naturalesa": "Públic",
+    "tipus": "Adults"
+  },
+  {
+    "id": "08070431",
+    "name": "Esc. de Música Municipal de Tona",
+    "comarca": "Osona",
+    "municipi": "Tona",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08030421",
+    "name": "Escola L'Era de Dalt",
+    "comarca": "Osona",
+    "municipi": "Tona",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08054277",
+    "name": "Institut de Tona",
+    "comarca": "Osona",
+    "municipi": "Tona",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08067491",
+    "name": "Llar d'infants Pa amb xocolata",
+    "comarca": "Osona",
+    "municipi": "Tona",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08030431",
+    "name": "Vedruna Tona",
+    "comarca": "Osona",
+    "municipi": "Tona",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08063643",
+    "name": "CFA La Cooperativa",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Adults"
+  },
+  {
+    "id": "08057308",
+    "name": "Esc. de Música Municipal de Torelló: MUSIT",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08030510",
+    "name": "Escola Doctor Fortià i Solà",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08030522",
+    "name": "Escola Vall del Ges",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08078075",
+    "name": "Escola de Dansa Dansa't del Ges",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08058404",
+    "name": "Institut Cirviànum de Torelló",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08075256",
+    "name": "Institut Escola Marta Mata",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08068033",
+    "name": "Llar d'infants Blancaneus",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08071809",
+    "name": "Llar d'infants La Cabanya",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08030534",
+    "name": "Rocaprevera",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08030546",
+    "name": "Vedruna Sagrats Cors Torelló",
+    "comarca": "Osona",
+    "municipi": "Torelló",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08079237",
+    "name": "C.G.Sup.Art Dra de Vic",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08079195",
+    "name": "CEES VIC",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08060095",
+    "name": "CFA Montseny",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Adults"
+  },
+  {
+    "id": "08061245",
+    "name": "Cons. de Música de Vic",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08030881",
+    "name": "Dominiques Vic",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08035003",
+    "name": "EA de Vic",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08062183",
+    "name": "EOI Osona",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Idiomes"
+  },
+  {
+    "id": "08071408",
+    "name": "El Seminari",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08055348",
+    "name": "Esc. de Música Municipal de Vic",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08057102",
+    "name": "Escola Andersen",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08069827",
+    "name": "Escola Bressol Caputxins",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08031009",
+    "name": "Escola Doctor Joaquim Salarich",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08057096",
+    "name": "Escola Guillem de Mont-rodon",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08067818",
+    "name": "Escola La Sínia",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08030819",
+    "name": "Escola Sentfores",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08069499",
+    "name": "Escola Vic-centre",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "08075153",
+    "name": "Escola de Dansa Laia Baulenas",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08077320",
+    "name": "Escola de Dansa TLS Escola de Dansa",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08078701",
+    "name": "Escola de Dansa Tempoballet Mariona Casany",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08047637",
+    "name": "Escola de Dansa Thais",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08030960",
+    "name": "FEDAC-Vic",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08063060",
+    "name": "HDA Hospital de Dia de Vic - HDA",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08031034",
+    "name": "Institut Jaume Callís",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08062870",
+    "name": "Institut La Plana",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08079341",
+    "name": "Institut Nou de Vic",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08031022",
+    "name": "Institut de Vic",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Institut"
+  },
+  {
+    "id": "08015201",
+    "name": "L'Estel",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Educació especial"
+  },
+  {
+    "id": "08073788",
+    "name": "La Font",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08069384",
+    "name": "Llar d'infants Horta Vermella",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08069803",
+    "name": "Llar d'infants de la Serra de Sanferm",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08030911",
+    "name": "Sagrat Cor de Jesús",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08030959",
+    "name": "Sant Miquel dels Sants",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "08074318",
+    "name": "Teknós",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Artístics i altres"
+  },
+  {
+    "id": "08030947",
+    "name": "Vedruna Escorial Vic",
+    "comarca": "Osona",
+    "municipi": "Vic",
+    "naturalesa": "Privat",
+    "tipus": "Institut escola"
+  },
+  {
+    "id": "17004062",
+    "name": "Escola Santa Bàrbara - ZER Els Castells",
+    "comarca": "Osona",
+    "municipi": "Vidrà",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "17004189",
+    "name": "Escola Els Castanyers - ZER Guilleries",
+    "comarca": "Osona",
+    "municipi": "Viladrau",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  },
+  {
+    "id": "17007944",
+    "name": "Llar d'infants Les Paitides",
+    "comarca": "Osona",
+    "municipi": "Viladrau",
+    "naturalesa": "Públic",
+    "tipus": "Escola bressol"
+  },
+  {
+    "id": "08031290",
+    "name": "Escola Les Roques",
+    "comarca": "Osona",
+    "municipi": "Vilanova de Sau",
+    "naturalesa": "Públic",
+    "tipus": "Escola"
+  }
+]

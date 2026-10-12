@@ -1,0 +1,10 @@
+import {createRequire} from 'node:module';
+import fs from 'node:fs';
+import path from 'node:path';
+const require=createRequire(import.meta.url);
+const runtime=process.env.AEC_BUILD_DEPENDENCIES;
+const {build}=runtime?require(path.join(runtime,'esbuild')):await import('esbuild');
+await build({entryPoints:['src/main.tsx'],bundle:true,minify:true,outfile:'docs/app.js',format:'esm',jsx:'automatic',target:['es2022'],nodePaths:runtime?[runtime]:[],legalComments:'eof'});
+fs.writeFileSync('docs/index.html',`<!doctype html><html lang="ca"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Buidatge dels objectius de les assemblees d’Osona i el Lluçanès. Resultats desats al navegador, amb importació i exportació CSV/JSON."><title>Objectius AEC · Osona i Lluçanès</title><link rel="stylesheet" href="./app.css"></head><body><div id="root"></div><noscript>Activa JavaScript per introduir i consultar els resultats. Les dades es desen en aquest navegador.</noscript><script type="module" src="./app.js"></script></body></html>`);
+fs.writeFileSync('docs/.nojekyll','');
+console.log('Versió estàtica preparada a docs/. No inclou cap resultat d’assemblea.');
