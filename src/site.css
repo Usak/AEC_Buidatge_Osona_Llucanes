@@ -13,3 +13,5 @@
 .messages{scroll-margin-top:85px}
 
 .priority-mode{max-width:520px;margin:0 0 22px;color:var(--ink)}.priority-mode .fine{display:block;margin-top:8px;font-weight:400}
+
+.excel-modal{max-width:860px}.excel-file{font-size:12px;color:var(--ink-soft);overflow-wrap:anywhere}.excel-axes{margin:20px 0}.excel-axis{border:1px solid var(--line);padding:15px;margin:10px 0}.excel-axis-header{display:flex;gap:12px;justify-content:space-between;align-items:center;font-size:12px}.excel-axis details{font-size:12px;margin-top:12px}.excel-axis summary{cursor:pointer;color:var(--teal)}.excel-objective{padding:6px 0;color:var(--ink);font-weight:400}.excel-amendment{background:var(--paper-dim);padding:12px;margin-top:12px}.excel-amendment p{white-space:pre-wrap;overflow-wrap:anywhere}.excel-issues{padding:16px}.excel-issues span,.excel-issues small{display:block;overflow-wrap:anywhere}.excel-issues li{margin:10px 0}.excel-modal .note p{font-size:12px}@media(max-width:600px){.excel-axis-header{align-items:flex-start;flex-wrap:wrap}}

@@ -1,0 +1,951 @@
+[
+  {
+    "axisId": "salaris",
+    "sheetName": "EIX SALARIS",
+    "items": [
+      {
+        "text": "Establir clàusula de garantia salarial (lligat a l'IPC): per a tots els col·lectius (PAE, PAS, lleure, bressol, docents).",
+        "ids": [
+          "S01"
+        ]
+      },
+      {
+        "text": "Convocar de manera estable la mesa de la funció pública.",
+        "ids": [
+          "S02"
+        ]
+      },
+      {
+        "text": "Revertir de les retallades i retribucions per a tots els col·lectius.",
+        "ids": [
+          "S03"
+        ]
+      },
+      {
+        "text": "Reconèixer el pagament de les hores extra (colònies i sortides).",
+        "ids": [
+          "S04"
+        ]
+      },
+      {
+        "text": "Cobrar els complements de tots els càrrecs (tutoria, coordinació...).",
+        "ids": [
+          "S05"
+        ]
+      },
+      {
+        "text": "Reconeixement especial al càrrec de coordinació digital (còmput mínim d'hores+complement econòmic)",
+        "ids": [
+          "S06"
+        ]
+      },
+      {
+        "text": "Pagar el retorn dels estadis.",
+        "ids": [
+          "S07"
+        ]
+      },
+      {
+        "text": "Cobrar les pagues dobles reals.",
+        "ids": [
+          "S08"
+        ]
+      },
+      {
+        "text": "0-3: Reconèixer i dignificar la professió i la categoria professional.",
+        "ids": [
+          "S09"
+        ]
+      },
+      {
+        "text": "0-3: Reconèixer les categories professionals A2 i B i equiparar salaris.",
+        "ids": [
+          "S10"
+        ]
+      },
+      {
+        "text": "PAE: Cobrar el complement de destinació per màxima complexitat.",
+        "ids": [
+          "S11"
+        ]
+      },
+      {
+        "text": "PAE: Absorbir en el salari base el complement de productivitat 360.",
+        "ids": [
+          "S12"
+        ]
+      },
+      {
+        "text": "FP: Equiparació salarial del Professorat Tècnic (PT) singular i rebuig a la laboralització de perfils docents estructurals.",
+        "ids": [
+          "S13"
+        ]
+      },
+      {
+        "text": "Lleure: Equiparació salarial i de condicions laborals amb pagues extres de les colònies, extraescolars i sortides.",
+        "ids": [
+          "S14"
+        ]
+      }
+    ]
+  },
+  {
+    "axisId": "ratios",
+    "sheetName": "EIX RÀTIOS",
+    "items": [
+      {
+        "text": "Baixada de la ràtio a totes les etapes educatives.*",
+        "ids": [
+          "R01"
+        ]
+      },
+      {
+        "text": "Còmput doble de l'alumnat NESE des del diagnòstic, des de 0-3 i inici d'etapa.",
+        "ids": [
+          "R02"
+        ]
+      },
+      {
+        "text": "Incloure SIEI a tots els centres amb reducció de ràtios.",
+        "ids": [
+          "R03"
+        ]
+      },
+      {
+        "text": "5 alumnes a la SIEI.",
+        "ids": [
+          "R04"
+        ]
+      },
+      {
+        "text": "Incloure una parella educativa real.",
+        "ids": [
+          "R05"
+        ]
+      },
+      {
+        "text": "Incloure sempre la codocència a cada grup-classe.",
+        "ids": [
+          "R06"
+        ]
+      },
+      {
+        "text": "Aula acollida: ràtio màxima de 10 alumnes per professional (dotació automàtica, no lligada al padró).",
+        "ids": [
+          "R07"
+        ]
+      },
+      {
+        "text": "CEE: entre 2 i 4 alumnes en grups als Centres d'Educació Especial.",
+        "ids": [
+          "R08"
+        ]
+      },
+      {
+        "text": "Abaixar ràtios proporcionalment a les escoles rurals (dotació automàtica, no lligada al padró).",
+        "ids": [
+          "R09"
+        ]
+      },
+      {
+        "text": "Ràtios a l’ensenyament post-obligatori en línia idèntiques a la formació presencial.",
+        "ids": [
+          "R10"
+        ]
+      },
+      {
+        "text": "Cap tancament de grups a la pública.",
+        "ids": [
+          "R11"
+        ]
+      },
+      {
+        "text": "Impossibilitat de pujar la ràtio a causa de codocències.",
+        "ids": [
+          "R12"
+        ]
+      }
+    ]
+  },
+  {
+    "axisId": "inclusiva",
+    "sheetName": "EIX INCLUSIVA",
+    "items": [
+      {
+        "text": "Increment de plantilles:  18.000 noves places estructurals de docents i personal d'atenció educativa (PAE) entre 2027 i 2028. 5 dotacions per centre (16.225) i reforç dels serveis educatius en 4 anys.",
+        "ids": [
+          "I01"
+        ]
+      },
+      {
+        "text": "Crear equips psicosocials a tots els centres educatius (TIS i ES) i reforçar els equips psicopedagògics (PSI, PT, MALL, EEE, TEEI), sobretot als CMC, alta complexitat, i centres en municipis amb Plans de detecció i prevenció d'absentisme, i progressivament la resta de centres.",
+        "ids": [
+          "I02"
+        ]
+      },
+      {
+        "text": "Ampliar personal al CDIAP per a acompanyar professionals i famílies.",
+        "ids": [
+          "I03"
+        ]
+      },
+      {
+        "text": "Revisar i potenciar els serveis educatius de forma significativa, especialment EAP i CRETDIC.",
+        "ids": [
+          "I04"
+        ]
+      },
+      {
+        "text": "Augmentar l’orientació a la postobligatòria, de manera que els alumnes amb NESE puguin accedir i cursar en bones condicions a aquests estudis, atenent a la seva casuïstica especial.",
+        "ids": [
+          "I05"
+        ]
+      },
+      {
+        "text": "Dotar amb un infermer/a escolar allà on calgui, començant per tots els CEE.",
+        "ids": [
+          "I06"
+        ]
+      },
+      {
+        "text": "Incloure perfils com PAE, educadores, etc. un perfil per acompanyar de manera adequada l’infant amb necessitats.",
+        "ids": [
+          "I07"
+        ]
+      },
+      {
+        "text": "Caldria que siguin internalitzats.",
+        "ids": [
+          "I08"
+        ]
+      },
+      {
+        "text": "Caldria un acompanyament de logopedes i fisioterapeutes a les educadores.",
+        "ids": [
+          "I09"
+        ]
+      },
+      {
+        "text": "Caldrien recursos professionals suficients per poder atendre la diversitat d’alumnat de les estances durant tota la jornada que l’infant està a l’escola.",
+        "ids": [
+          "I10"
+        ]
+      },
+      {
+        "text": "Fer una diagnosi precoç de trastorns de manera establerta. Fer proposta a determinats nivells i de manera estandaritzada per a detectar dificultats específiques d’aprenentatge de manera sistemàtica.",
+        "ids": [
+          "I11"
+        ]
+      },
+      {
+        "text": "Respectar les dotacions PAE: SIEI a Primària són dues dotacions en centres: una MESI + una EEE. \nSIEI a Secundària haurien de ser tres dotacions completes, en comptes de 2,5h.",
+        "ids": [
+          "I12"
+        ]
+      },
+      {
+        "text": "Respectar les dotacions SIEI+: una tutora MESI + dues EEE. Depenent casos podem necessitar fisiorapeuta o logopeda. L’Administració està posant vetlladors per a suplir aquests professionals. Demanda: que es posi aquest professional especialitzat per atendre alumnat.",
+        "ids": [
+          "I13"
+        ]
+      },
+      {
+        "text": "Obrir la borsa d'AEE a tots els territoris i serveis territorials.",
+        "ids": [
+          "I14"
+        ]
+      },
+      {
+        "text": "Participació efectiva dels EAP en el disseny de les polítiques i mesures d'inclusió que posteriorment han de desplegar.",
+        "ids": [
+          "I15"
+        ]
+      }
+    ]
+  },
+  {
+    "axisId": "plantilles",
+    "sheetName": "EIX PLANTILLES",
+    "items": [
+      {
+        "text": "Augmentar les plantilles de docents, mestres i PAE (ordinaris i especialistes). Augment de les plantilles de treballadores i de treballadors de l'educació per a la baixada de ràtios de la pública. Mínim un terç de la plantilla actual (30000 treballadores).",
+        "ids": [
+          "P01"
+        ]
+      },
+      {
+        "text": "Estabilitzar el personal interí en frau de llei (més de 3 anys al mateix lloc).",
+        "ids": [
+          "P02"
+        ]
+      },
+      {
+        "text": "Convocatòries d’oposicions cada any per a estabilitzar el personal.",
+        "ids": [
+          "P03"
+        ]
+      },
+      {
+        "text": "Computar les tutories de pràctiques per a tots els docents i PAE.",
+        "ids": [
+          "P04"
+        ]
+      },
+      {
+        "text": "Internalitzar de manera completa abans del curs 2029-2030 dels serveis de vetlladores, monitoratge NESE, transport, intèrprets de llengua de signes, extraescolars, acollida i menjador i patis. I els treballadors municipals (0-3) com a treballadors de la Generalitat o reclassificació.",
+        "ids": [
+          "P05"
+        ]
+      },
+      {
+        "text": "Oferir totes les vacants disponibles al concurs de trasllats estatal. Blindar les places definitives (no supressió per creació de llocs perfilats).",
+        "ids": [
+          "P06"
+        ]
+      },
+      {
+        "text": "Blindar el concurs autonòmic bianual amb el mateix sistema de provisió que l’estatal.",
+        "ids": [
+          "P07"
+        ]
+      },
+      {
+        "text": "Garantir les substitucions en el termini més breu possible, sobretot les de llarga durada a principi de curs. Substitucions des del primer dia i nomenaments d'interins fins al 31 d'agost.",
+        "ids": [
+          "P08"
+        ]
+      },
+      {
+        "text": "Contracte total per part del Departament d'Educació (Generalitat), igual que a la resta d'etapes educatives i trencar amb els diferents models de gestió que precaritzen a nivell extrem el nostre cicle i ens separen de la continuïtat, el 3-6. Un 0-3 100% públic, universal, gratuït, inclusiu i de qualitat.",
+        "ids": [
+          "P09"
+        ]
+      },
+      {
+        "text": "Equiparar el calendari escolar amb el cicle 3-6.",
+        "ids": [
+          "P10"
+        ]
+      },
+      {
+        "text": "Establir l’edat de jubilació anticipada. Cessament progressiu de l’activitat.",
+        "ids": [
+          "P11"
+        ]
+      },
+      {
+        "text": "Gestió d’una única borsa de substitucions integrats en un sol sistema públic. PROPOSTA: Organitzar una única borsa de substitucions i integrada.",
+        "ids": [
+          "P12"
+        ]
+      },
+      {
+        "text": "Revisar la formació inicial o estudis d’accés a la professió (Grau de Magisteri i Cicle Formatiu de Grau Superior).",
+        "ids": [
+          "P13"
+        ]
+      },
+      {
+        "text": "Introduir la figura del conserge. Ara són les educadores o direcció qui ha d’estar pendent de la porta, telèfon, atendre visites, …",
+        "ids": [
+          "P14"
+        ]
+      },
+      {
+        "text": "Reclassificar i equiparar salari/categoria de les TEEI rurals amb les educadores de la Generalitat.",
+        "ids": [
+          "P15"
+        ]
+      },
+      {
+        "text": "Reduir dues hores per a majors de 55 anys.",
+        "ids": [
+          "P16"
+        ]
+      },
+      {
+        "text": "Reclassificació professional del personal de Serveis Educatius i Personal d’Atenció Educativa de manera més ràpida possible (TEI, TIS, EEE, LOG, fisioterapeutes). Que Funció Pública faci la modificació del conveni per aquest curs amb caràcter retroactiu a 1 de gener del 2026.",
+        "ids": [
+          "P17"
+        ]
+      },
+      {
+        "text": "Tenir més hores de preparació de material i coordinació per a PAS. Menys hores de permanència als centres. Equiparació amb la resta de personal educatiu.*",
+        "ids": [
+          "P18"
+        ]
+      },
+      {
+        "text": "L’aplicació real de la jubilació anticipada PAE i els estadis (sexennis).",
+        "ids": [
+          "P19"
+        ]
+      },
+      {
+        "text": "Dignificar la professió de les PAE: tenir les funcions clares i especificades i dotació horària objectiva.",
+        "ids": [
+          "P20"
+        ]
+      },
+      {
+        "text": "Un equip PAE més ampli a cada centre educatiu i una TEI a cada I3.",
+        "ids": [
+          "P21"
+        ]
+      },
+      {
+        "text": "Ampliar places PAE i les places de programa pilot (amb fons europeus) que passin a ser ESTRUCTURALS: que no desapareguin i que quedin fixes.",
+        "ids": [
+          "P22"
+        ]
+      },
+      {
+        "text": "Tenir borses i poder triar zones properes facilitant la conciliació familiar. ⁠",
+        "ids": [
+          "P23"
+        ]
+      },
+      {
+        "text": "Poder bloquejar o congelar el número de la borsa com altres professionals.",
+        "ids": [
+          "P24"
+        ]
+      },
+      {
+        "text": "Tenir un complement de perillositat en el cas de les EEE.",
+        "ids": [
+          "P25"
+        ]
+      },
+      {
+        "text": "Publicar un nou decret de serveis educatius EAP davant del desfasament de la llei del 1994. Durant aquestes dècades, les funcions, les responsabilitats i les demandes que rebem han augmentat exponencialment, mentre que els recursos i les condicions laborals han quedat pràcticament congelats.",
+        "ids": [
+          "P26"
+        ]
+      },
+      {
+        "text": "Publicar un concurs de mèrits.",
+        "ids": [
+          "P27"
+        ]
+      },
+      {
+        "text": "Ampliar la plantilla dels EAPs: psicopedagogia, treball social, fisioteràpia i logopèdia des de llars d'infants fins a post-obligatòria.",
+        "ids": [
+          "P28"
+        ]
+      },
+      {
+        "text": "Reconèixer els càrrecs, coordinacions i responsabilitats exercides.",
+        "ids": [
+          "P29"
+        ]
+      },
+      {
+        "text": "Millor organització interna i transmissió de la informació de les coordinacions amb serveis externs (serveis sanitaris (CSMIJ), socials i educatius (CDIAP), participació en múltiples comissions (CGA, COE, comissions tècniques d’educació especial).",
+        "ids": [
+          "P30"
+        ]
+      },
+      {
+        "text": "Reducció de la sobrecàrrega de tasques administratives i logístiques (comissió digital, comissió PRL,) que corresponen, a vegades, a altres serveis. Revisió dels procediments de beques, vetlladores i altres tràmits que actualment absorbeixen una part desproporcionada de la jornada laboral.",
+        "ids": [
+          "P31"
+        ]
+      },
+      {
+        "text": "Equiparació de les condicions laborals, retributives i horàries dels professionals PAS dels EAP amb les del cos docent.",
+        "ids": [
+          "P32"
+        ]
+      },
+      {
+        "text": "Reconèixer tots els perfils professionals amb el complement d’EAP actualitzat.",
+        "ids": [
+          "P33"
+        ]
+      },
+      {
+        "text": "Reconeixement d'hores específiques de formació interna, equiparables a les d'altres serveis educatius.",
+        "ids": [
+          "P34"
+        ]
+      },
+      {
+        "text": "Dotació suficient de recursos especialitzats a tots els territoris per evitar desigualtats territorials. Participació efectiva dels EAP en el disseny de les polítiques i mesures d'inclusió que posteriorment han de desplegar.",
+        "ids": [
+          "P35"
+        ]
+      },
+      {
+        "text": "Definició clara i actualitzada de les funcions pròpies dels EAP.",
+        "ids": [
+          "P36"
+        ]
+      },
+      {
+        "text": "Desplaçament: Actualització immediata del preu del quilometratge. Pagament dels desplaçaments dins del municipi de la seu de l'EAP. Reemborsament de les despeses d'aparcament derivades de la itinerància professional.",
+        "ids": [
+          "P37"
+        ]
+      },
+      {
+        "text": "Aplicació efectiva de la jornada de 35,5 hores.",
+        "ids": [
+          "P38"
+        ]
+      },
+      {
+        "text": "Desenvolupament del teletreball per a les tasques compatibles amb aquesta modalitat.",
+        "ids": [
+          "P39"
+        ]
+      },
+      {
+        "text": "Revisió dels dies de permanència obligatòria durant el mes de juliol.",
+        "ids": [
+          "P40"
+        ]
+      },
+      {
+        "text": "Dotació de dispositius tecnològics adequats, incloent ordinadors portàtils o tauletes operatives i telèfons corporatius.",
+        "ids": [
+          "P41"
+        ]
+      },
+      {
+        "text": "Internalització de tot el personal del lleure: monitores de menjador i pati, vetlladores, etc.",
+        "ids": [
+          "P42"
+        ]
+      },
+      {
+        "text": "Ampliar plantilla dels menjadors, patis, extraescolars, sortides i colònies.",
+        "ids": [
+          "P43"
+        ]
+      },
+      {
+        "text": "Escoles rurals (PAE i 0-3) Reclassificació i equiparació salarial/categoria de les TEEI rurals amb les educadores de la Generalitat. Millora de la formació i valorització d'aquestes professionals.",
+        "ids": [
+          "P44"
+        ]
+      },
+      {
+        "text": "Majors de 55 anys: Reducció de dues hores lectives setmanals sense condicions d'antiguitat.",
+        "ids": [
+          "P45"
+        ]
+      }
+    ]
+  },
+  {
+    "axisId": "burocracia",
+    "sheetName": "EIX BUROCRÀCIA",
+    "items": [
+      {
+        "text": "Caldria reduir, unificar i no duplicar aplicatius de l’Administració tant a centres educatius com als EAPs.",
+        "ids": [
+          "B01"
+        ]
+      },
+      {
+        "text": "Cuidar la no duplicació de la gestió interna del centre.",
+        "ids": [
+          "B02"
+        ]
+      },
+      {
+        "text": "Participació efectiva del professorat en el disseny d’aplicatius i altres eines de traspàs d’informació per tal que la seva aplicació s’adapti a les necessitats tant de l’administració general com dels docents i la resta de membres de la comunitat educativa.",
+        "ids": [
+          "B03"
+        ]
+      },
+      {
+        "text": "Millora dels actuals aplicatius (esfera, e-valisa, etc.).",
+        "ids": [
+          "B04"
+        ]
+      },
+      {
+        "text": "Augment del personal administratiu (PAS): 0-3 a Secundària.",
+        "ids": [
+          "B05"
+        ]
+      },
+      {
+        "text": "Dotació PAS a centres rurals: modificar la resolució de plantilles per assignar una dotació estable de PAS a cada centre rural (integrat o no a ZER).",
+        "ids": [
+          "B06"
+        ]
+      }
+    ]
+  },
+  {
+    "axisId": "democracia",
+    "sheetName": "EIX DEMOCRÀCIA",
+    "items": [
+      {
+        "text": "Revisar i recuperar la força de decisió dels claustres. Són els claustres qui haurien de regir i governar els centres.",
+        "ids": [
+          "D01"
+        ]
+      },
+      {
+        "text": "Elecció de les direccions per part del claustre o un major pes del claustre en l’elecció.",
+        "ids": [
+          "D02"
+        ]
+      },
+      {
+        "text": "Eliminació de l'adjudicació de places per entrevista.",
+        "ids": [
+          "D03"
+        ]
+      },
+      {
+        "text": "Dret a vot del personal que acompanya l’alumnat NESE: personal PAE i vetlladores als claustres. El PAE té veu al claustre però NO VOT.",
+        "ids": [
+          "D04"
+        ]
+      },
+      {
+        "text": "Dret a vot i participació del personal del lleure.",
+        "ids": [
+          "D05"
+        ]
+      },
+      {
+        "text": "Retorn a la col·legialitat en la presa de decisions, fent que les direccions representin el claustre davant el Departament. Retornar a l'elecció de direccions pel claustre i l'adjudicació de places per antiguitat i mèrits, sense entrevistes.",
+        "ids": [
+          "D06"
+        ]
+      },
+      {
+        "text": "Derogació de decrets d'Autonomia (102/2010), Direcció (155/2010) i Plantilles (39/2014) per eliminar l'arbitrarietat en la provisió de llocs de treball.",
+        "ids": [
+          "D07"
+        ]
+      },
+      {
+        "text": "Eliminar entrevistes, no continuïtats i tota forma de provisió no objectiva.",
+        "ids": [
+          "D08"
+        ]
+      },
+      {
+        "text": "Eliminació dels perfils.",
+        "ids": [
+          "D09"
+        ]
+      },
+      {
+        "text": "Que direccions tornin a ser membres del claustre, no cap de personal. La normativa catalana és la que li dóna més poder a la figura del director/a. Darrerament està havent-hi casos d’abús i repressió contra docents.",
+        "ids": [
+          "D10"
+        ]
+      },
+      {
+        "text": "Tria dels càrrecs directius i de coordinació amb una participació efectiva dels claustres.",
+        "ids": [
+          "D11"
+        ]
+      },
+      {
+        "text": "Revisió del procés de tria de l’Equip directiu. Renovació projectes de direcció han de partir de les valoracions dels claustres.",
+        "ids": [
+          "D12"
+        ]
+      },
+      {
+        "text": "Que l’Equip Directiu sigui més d’una persona i que siguin càrrecs rotatius.",
+        "ids": [
+          "D13"
+        ]
+      },
+      {
+        "text": "Projectes de direcció: secretari, cap d’estudis, direcció i amb projectes renovables cada 4 anys. Igual que el 3-6, primària i secundària.",
+        "ids": [
+          "D14"
+        ]
+      },
+      {
+        "text": "Es demana, però, que si el Departament absorbeix les llars d’infants municipals s’han de preservar els equips educatius existents i els seus projectes.",
+        "ids": [
+          "D15"
+        ]
+      },
+      {
+        "text": "Buscar la millor manera de resoldre la situació de les persones amb càrrec directiu.",
+        "ids": [
+          "D16"
+        ]
+      },
+      {
+        "text": "Que direcció ha d’ocupar la seva funció i no compartir-la amb tutories o altres càrrecs.",
+        "ids": [
+          "D17"
+        ]
+      }
+    ]
+  },
+  {
+    "axisId": "curriculum",
+    "sheetName": "EIX CURRÍCULUM",
+    "items": [
+      {
+        "text": "Participació efectiva de representats de les treballadores i les treballadores de l'educació en l’el.laboració de decrets, lleis i altres figures jurídiques que afectin el currículum i la planificació de l’educació a curt, llarg i mitjà termini.",
+        "ids": [
+          "C01"
+        ]
+      },
+      {
+        "text": "Unificació efectiva 0-6: es proposa l’increment de recursos per a garantir la unificació real de criteris per a tota l'etapa 0-6 anys per recollir l'esperit del nou currículum",
+        "ids": [
+          "C02"
+        ]
+      },
+      {
+        "text": "Recuperar l'àrea de Música i Dansa a Primària com a àrea avaluable en sí mateixa, independentment de la Plàstica.",
+        "ids": [
+          "C03"
+        ]
+      },
+      {
+        "text": "Garantir el còmput d’hores necessari per a garantir la qualitat de l’educació musical serien 315 hores a repartir durant tota l’etapa de Primària (1,5 hores setmanals) i també 2 hores a 1r, 2n i 3r d'ESO (210 hores), mantenint les 70 hores de matèria optativa a 4t d'ESO, també amb una dedicació de 2 hores setmanals.",
+        "ids": [
+          "C04"
+        ]
+      },
+      {
+        "text": "Dotació econòmica per a aules de música: dotar les existents i crear-ne de noves.",
+        "ids": [
+          "C05"
+        ]
+      },
+      {
+        "text": "Retirar les darreres propostes de modificació de la dotació horària de les matèries de les ciències. Revertir el decret 171/2022, aplicat a partir del curs 22-23 i la modificació prevista pel curs 25-26 i tornar a tenir les 4 h per ciències (Física, Química, Biologia i Ciències de la Terra i Medi Ambient) a 1r de batxillerat com a la resta de modalitats.",
+        "ids": [
+          "C06"
+        ]
+      },
+      {
+        "text": "Eliminar hores de gestió autònoma a l'ESO i tornar a la obligatorietat de 5h FIQ +5h BiG de 1r a 3r ESO .",
+        "ids": [
+          "C07"
+        ]
+      },
+      {
+        "text": "Optatives de 4t d'ESO de 3h.",
+        "ids": [
+          "C08"
+        ]
+      },
+      {
+        "text": "Recuperar la 3a hora de Filosofia a 1r de Batxillerat (revertir la reducció horària aprovada el 2008):",
+        "ids": [
+          "C09"
+        ]
+      },
+      {
+        "text": "Augmentar la presència de l’Educació en Valors Cívics i Ètics (EVCE) a l’ESO.",
+        "ids": [
+          "C10"
+        ]
+      },
+      {
+        "text": "Garantir l’oferta de l’optativa de Filosofia a 4t d’ESO a tots els centres i itineraris.",
+        "ids": [
+          "C11"
+        ]
+      },
+      {
+        "text": "Reivindicar l’especificitat de la Filosofia i les matèries del seu àmbit tant a l’ESO com al Batxillerat.",
+        "ids": [
+          "C12"
+        ]
+      },
+      {
+        "text": "Assegurar l’assignació d’optatives al Batxillerat als especialistes en Filosofia.",
+        "ids": [
+          "C13"
+        ]
+      },
+      {
+        "text": "Reclamar la coordinació de continguts del Currículum i les PAU",
+        "ids": [
+          "C14"
+        ]
+      },
+      {
+        "text": "Garantir que el Departament faciliti la formació docent contínua en Filosofia, subvencioni cursos i en supervisi l’excel·lència.",
+        "ids": [
+          "C15"
+        ]
+      },
+      {
+        "text": "Crear d’un banc de recursos per garantir la igualtat d’oportunitats.",
+        "ids": [
+          "C16"
+        ]
+      },
+      {
+        "text": "Calen més hores de català i castellà de l’ESO al Batxillerat i reduir les matèries de nova creació.",
+        "ids": [
+          "C17"
+        ]
+      },
+      {
+        "text": "Actualitzar i revisar urgent el currículum de la FP.",
+        "ids": [
+          "C18"
+        ]
+      },
+      {
+        "text": "Establir una mesa permanent de negociació i diàleg sobre el currículum a la FP i Departament de manera prioritària i urgent. En darrer lloc, afegiríem famílies, alumnes, etc.",
+        "ids": [
+          "C19"
+        ]
+      },
+      {
+        "text": "Definir i concretar els mòduls d’hores de pràctiques segons el pla pedagògic i posar sobre la taula la possibilitat de la remuneració per part de l’alumnat.",
+        "ids": [
+          "C20"
+        ]
+      },
+      {
+        "text": "Reduir el nombre de pràctiques al mínim en pro d’afavorir el coneixement base d’una nova professió.",
+        "ids": [
+          "C21"
+        ]
+      },
+      {
+        "text": "Repensar de com estan pensades les especialitats de la FP. Són massa àmplies i caldria concretar més de manera específica dins de cada especialitat. Que cada professor que estigui exercint tingui una titulació adequada (o si més no calendaritzar-ho).",
+        "ids": [
+          "C22"
+        ]
+      }
+    ]
+  },
+  {
+    "axisId": "llengua",
+    "sheetName": "EIX CATALÀ",
+    "items": [
+      {
+        "text": "Reforçar els recursos i les dotacions per a garantir el sistema d’immersió lingüística.",
+        "ids": [
+          "L01"
+        ]
+      },
+      {
+        "text": "Dotar de recursos les aules d'acollida, més flexibles i que tinguin en compte la matrícula viva i amb ràtios asumibles.",
+        "ids": [
+          "L02"
+        ]
+      },
+      {
+        "text": "Fer grups de reforç lingüístics especials per a què els alumnes nouvinguts puguin adquirir coneixement suficients com per a integrar-se en un sistema on la llengua vehicular és per llei el català.",
+        "ids": [
+          "L03"
+        ]
+      },
+      {
+        "text": "Vincular el reconeixement del C1 de català a una prova homologable o nota alta per garantir el nivell lingüístic acreditat i que sigui real. 4t ESO amb un AN en llengua catalana. Obtenció B2.\n2n Batxillerat amb un AN en llengua catalana o bé fer una prova Obtenció C1",
+        "ids": [
+          "L04",
+          "L05"
+        ]
+      },
+      {
+        "text": "Blindar el català davant la inacció del Departament.",
+        "ids": [
+          "L06"
+        ]
+      },
+      {
+        "text": "Garantir materials en català en general: de projectes de consulta, fons audiovisual. Esment especial a materials en català de la FP.",
+        "ids": [
+          "L07"
+        ]
+      },
+      {
+        "text": "Actualitzar els Projectes Lingüístics de Centre, ben elaborats i vinculants, si cal signats per Equip Directiu.",
+        "ids": [
+          "L08"
+        ]
+      },
+      {
+        "text": "Garantir la proactivitat per part de la Inspecció a escoles públiques i concertades, amb compromís per vetllar per la vehicularitat del català.",
+        "ids": [
+          "L09"
+        ]
+      },
+      {
+        "text": "Clàusules lingüístiques amb totes les empreses subcontractades (extraescolars,lleure, etc), tot i que reivindiquem la prohibició de les externalitzacions de tots els serveis.",
+        "ids": [
+          "L10"
+        ]
+      },
+      {
+        "text": "Reivindicar el pes de la figura LIC amb funcions i marc horari clars. Elaborar una memòria d'actuació.",
+        "ids": [
+          "L11"
+        ]
+      },
+      {
+        "text": "Garantir Pla integral de la catalanització de la FP i el compromís dels centres de treball que tutoritzen pràctiques de la FP dual.",
+        "ids": [
+          "L12"
+        ]
+      },
+      {
+        "text": "Avançar en l'activació d'una bústia de queixes lingüístiques institucional i independent del Departament (com a les universitats).",
+        "ids": [
+          "L13"
+        ]
+      }
+    ]
+  },
+  {
+    "axisId": "infraestructures",
+    "sheetName": "EIX INFRASTRUCTURES",
+    "items": [
+      {
+        "text": "Exigir pla de climatització i calefacció urgent amb un pla de terminis (calendarització) per complir la normativa de salut laboral, establint els 27 graus com a temperatura màxima i els 17 com a mínima.",
+        "ids": [
+          "F01"
+        ]
+      },
+      {
+        "text": "Garantir mesures tèrmiques: Instal·lació de sistemes de refrigeració eficients, millora de l'aïllament tèrmic (persianes, tendals) i ventilació mecànica forçada.",
+        "ids": [
+          "F02"
+        ]
+      },
+      {
+        "text": "Retirada de barracons i construcció de centres nous.",
+        "ids": [
+          "F03"
+        ]
+      },
+      {
+        "text": "Renaturalització de patis: creació de refugis climàtics, més arbrat i eliminació de paviments de ciment.",
+        "ids": [
+          "F04"
+        ]
+      },
+      {
+        "text": "Garantir una superfície mínima de 2 m² per infant a les aules d'infantil i 4 m2 per 0-3.",
+        "ids": [
+          "F05"
+        ]
+      },
+      {
+        "text": "Millora d'infraestructures específiques a l'escola rural (calefacció, gimnàs, biblioteques).",
+        "ids": [
+          "F06"
+        ]
+      }
+    ]
+  }
+]

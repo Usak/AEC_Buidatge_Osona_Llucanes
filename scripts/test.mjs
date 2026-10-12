@@ -5,9 +5,14 @@ import fs from 'node:fs';
 const require=createRequire(import.meta.url),runtime=process.env.AEC_BUILD_DEPENDENCIES;
 const {build}=runtime?require(path.join(runtime,'esbuild')):await import('esbuild');
 fs.mkdirSync('.local',{recursive:true});
-for(const test of ['check-results','check-storage']){
+for(const test of ['check-results','check-storage','check-excel']){
   await build({entryPoints:[`scripts/${test}.ts`],bundle:true,outfile:`.local/${test}.mjs`,platform:'node',format:'esm',target:'es2022'});
   const result=spawnSync(process.execPath,[`.local/${test}.mjs`],{stdio:'inherit'});
+  if(result.status!==0)process.exit(result.status||1);
+}
+if(process.argv.includes('--reference')){
+  const at=process.argv.indexOf('--reference');
+  const result=spawnSync(process.execPath,['.local/check-excel.mjs','--reference',process.argv[at+1]],{stdio:'inherit'});
   if(result.status!==0)process.exit(result.status||1);
 }
 const js=fs.readFileSync('docs/app.js','utf8'),html=fs.readFileSync('docs/index.html','utf8');
